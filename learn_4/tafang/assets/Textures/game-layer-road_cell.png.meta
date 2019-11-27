@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "4a132bb6-d456-4fa8-939d-3b77b1698482",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "game-layer-road_cell": {
+      "ver": "1.0.4",
+      "uuid": "4eb87bb1-811d-4dc8-b9b5-6c911caed856",
+      "rawTextureUuid": "4a132bb6-d456-4fa8-939d-3b77b1698482",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 82,
+      "height": 83,
+      "rawWidth": 82,
+      "rawHeight": 83,
+      "borderTop": 27,
+      "borderBottom": 29,
+      "borderLeft": 26,
+      "borderRight": 26,
+      "subMetas": {}
+    }
+  }
+}
