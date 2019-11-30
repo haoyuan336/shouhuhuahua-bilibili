@@ -271,6 +271,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">未合图资源/level_icon_mark_bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>20,24,39,47</rect>
+                <key>scale9Paddings</key>
+                <rect>20,24,39,47</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">未合图资源/logo.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -283,6 +298,21 @@
                 <rect>104,62,208,124</rect>
                 <key>scale9Paddings</key>
                 <rect>104,62,208,124</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">未合图资源/webhao_icon.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>7,15,13,29</rect>
+                <key>scale9Paddings</key>
+                <rect>7,15,13,29</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>

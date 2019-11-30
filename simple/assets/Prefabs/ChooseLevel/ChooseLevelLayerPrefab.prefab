@@ -4294,6 +4294,12 @@
       "__id__": 1
     },
     "_enabled": true,
+    "content": {
+      "__id__": 2
+    },
+    "enemyIconMark": {
+      "__uuid__": "f03148c1-942e-4d07-8062-1c853e335188"
+    },
     "_id": ""
   },
   {
