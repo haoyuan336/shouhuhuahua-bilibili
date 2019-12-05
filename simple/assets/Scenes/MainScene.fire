@@ -356,6 +356,9 @@
     "chooseLevelLayerPrefab": {
       "__uuid__": "109ca1cc-2861-4b5f-9634-5141f5eca930"
     },
+    "chooseTowerLayerPrefab": {
+      "__uuid__": "a9fd45a1-a229-4b5d-a635-bbdf9b48d7ff"
+    },
     "_id": "edXDS+j3FE6I3mRJzN8LV5"
   }
 ]
